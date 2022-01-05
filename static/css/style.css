@@ -47,6 +47,14 @@ Post
     padding: 17px;
     list-style: name;
 }
+
+.menu-options {
+    display: grid;
+    position: absolute;
+    right: 10px;
+    top: 16px;
+}
+
 .posts li .menu_icon {
     width: 20px;
     position: absolute;
